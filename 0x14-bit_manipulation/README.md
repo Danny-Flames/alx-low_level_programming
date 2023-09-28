@@ -1,4 +1,4 @@
-# C - Bit manipulation
+# C - Bit manipulation cohort 18
 
 In this project, I learned how to manipulate bits and use the
 bitwise operators `>>`, `<<`, `&`, `|`, and `^` in C.
